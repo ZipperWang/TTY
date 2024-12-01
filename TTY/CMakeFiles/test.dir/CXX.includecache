@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zipper/Documents/TTY/test.cpp
+TTY.h
+/home/zipper/Documents/TTY/TTY.h
+
+include/TTY.h
+iostream
+-
+fcntl.h
+-
+termios.h
+-
+unistd.h
+-
+cstring
+-
+

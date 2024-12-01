@@ -1,0 +1,3 @@
+/home/zipper/Documents/TTY/CMakeFiles/rebuild_cache.dir
+/home/zipper/Documents/TTY/CMakeFiles/edit_cache.dir
+/home/zipper/Documents/TTY/CMakeFiles/test.dir
